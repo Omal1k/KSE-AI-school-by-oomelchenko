@@ -18,7 +18,5 @@
 На протязі всього курсу ми будемо використовувати мову **Python**, оскільки це легка та найпопулярніша мова програмування для розробки нейромереж. GLHF
 
 
-[Запись семинара](https://www.youtube.com/watch?v=At8_Sc7AQsg) и ноутбук с упражнениями: [**[seminar]python_basics.ipynb**](./[seminar]python_basics.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/drive/1sWJxh1HFY6DBA-xKByCgtDMXKBadfGa2) (после их выполнения вы можете свериться с нашими решениями [__[sem_solution]python_basics.ipynb__](./[sem_solution]python_basics.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/drive/1QjZH4cTq0UvudHge6vFjcWGQOTlZPbLh#scrollTo=uugRKJebGw4e). 
-
-Для тех, кто хочет попробовать сделать более сложные задания, есть дополнительный ноутбук [[seminar]python_extension.ipynb](./[seminar]python_extension.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/drive/1HNcANrXWmfki2ctJ3tDEBro56YXe2f9a#scrollTo=cglQ6JNB2d2v)
+СЮДИ ДОДАМ МАТЕРІАЛИ + ДЗ І ТД
 
