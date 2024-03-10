@@ -50,23 +50,23 @@
 
 5. Introduction in Deep Learning. Perceptrons. Neur with sigmoid (and another activation functions).
 
-6. Library PyTorch. Многослойные нейросети
+6. Library PyTorch. Багатошарові нейроннімережі.
 
-7. Обучение нейронных сетей на практике. Cifar10, notMNIST
+7. Навчання нейромереж на практиці. Cifar10, notMNIST
 
 8. Convolutional Neural Networks. Convolutional layer. Pooling layer
 
-9. Практика обучения нейросетей. Classification of road signs.
+9. Практика тренування нейромереж. Classification of road signs.
 
 10. Transfer Learning. Popular architectures in Computer Vision.
 
-11. Сегментация картинок. U-Net
+11. Сегментація зображень. U-Net
 
 12. Kaggle competitions
 
 13. Object Detection. YOLOv3
 
-14. Classic GAN. Нейронный перенос стиля
+14. Classic GAN. Нейронний перенос стилю
 
 **Second Part:**
 
