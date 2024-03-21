@@ -1,8 +1,6 @@
 <h1 style="text-align:center">Deep Learning School</h1>
 
-<p align="center">
- <img src="pictures/dls.jpeg" width=1280>
-</p>
+
 
 <p align="center">Офіціні ресурси:</p>
 <h4 align="center">Mail: oleksijomelcenko7@gmail.com</h4>
