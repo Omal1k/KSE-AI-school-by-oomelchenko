@@ -46,49 +46,23 @@
 
 4. Elements of n-dementional analysis. Gradient. Gradient descending. Linear models.
 
-5. Introduction in Deep Learning. Perceptrons. Neur with sigmoid (and another activation functions).
+5. Tree decision(classification problem)
 
-6. Library PyTorch. Багатошарові нейроннімережі.
+6. Ensambles methods
 
-7. Навчання нейромереж на практиці. Cifar10, notMNIST
+7. Introduction to Deep learning (Perceptrons)
 
-8. Convolutional Neural Networks. Convolutional layer. Pooling layer
+8. Library PyTorch. Багатошарові нейроннімережі.
+   
+10. Навчання нейромереж на практиці. Cifar10, notMNIST
+    
+11. Convolutional Neural Networks. Convolutional layer. Pooling layer
 
-9. Практика тренування нейромереж. Classification of road signs.
+12. Практика тренування нейромереж. Classification of road signs.
 
-10. Transfer Learning. Popular architectures in Computer Vision.
+13. Transfer Learning. Popular architectures in Computer Vision.
 
-11. Сегментація зображень. U-Net
-
-12. Kaggle competitions
-
-13. Object Detection. YOLOv3
-
-14. Classic GAN. Нейронний перенос стилю
-
-**Second Part:**
-
-15. Basics methos of language processing
-
-16. Word Embeddings
-
-17. Рекурентні нейромережі
-
-18. LSTM, GRU ячейки
-
-19. Language models
-
-20. Машинний переклад
-
-21. Text2Speech
-
-22. SuperResolution
-
-23. Speech2Text
-
-24. Практичні поради по тренуванню нейромереж
-
-25. Діалогові системи
+15. Kaggle competitions
 
 
  
