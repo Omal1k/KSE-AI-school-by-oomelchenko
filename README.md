@@ -52,20 +52,21 @@
 7) Ensambles methods
 
 8) Introduction to Deep learning (Perceptrons)
+9) Lection from secret guest
 
-9) Library PyTorch. Багатошарові нейроннімережі.
+10) Library PyTorch. Багатошарові нейроннімережі.
 
-10) Basics of NLP,  problems
+11) Basics of NLP,  problems
 
-11) Statistics NLP(TF-IDF)
+12) Statistics NLP(TF-IDF)
 
-12) Data scraping
+13) Data scraping
 
-13) AI ethics 
+14) AI ethics 
 
-14) GPT, BERT, ROBERTA...
+15) GPT, BERT, ROBERTA...
 
-15) Kaggle competitions
+16) Kaggle competitions
 
 
  
