@@ -38,31 +38,34 @@
 
 **Перша частина:**
 
-1. Python: basics, Jupyter Notebook, Google Colab
+1) Вступна лекція, що будемо вчити, нащо.
+2) Python: basics, Jupyter Notebook, Google Colab
 
-2. Introduction to Linear Algebra. Vectors. Matrics and operations with them. NumPy library
+3) Introduction to Linear Algebra. Vectors. Matrics and operations with them. NumPy library
 
-3. Libraries Pandas & MatPlotlib. Basics of Machine Learning
+4) Libraries Pandas & MatPlotlib. Basics of Machine Learning
 
-4. Elements of n-dementional analysis. Gradient. Gradient descending. Linear models.
+5) Elements of n-dementional analysis. Gradient. Gradient descending. Linear models.
 
-5. Tree decision(classification problem)
+6) Tree decision(classification problem)
 
-6. Ensambles methods
+7) Ensambles methods
 
-7. Introduction to Deep learning (Perceptrons)
+8) Introduction to Deep learning (Perceptrons)
 
-8. Library PyTorch. Багатошарові нейроннімережі.
-   
-10. Навчання нейромереж на практиці. Cifar10, notMNIST
-    
-11. Convolutional Neural Networks. Convolutional layer. Pooling layer
+9) Library PyTorch. Багатошарові нейроннімережі.
 
-12. Практика тренування нейромереж. Classification of road signs.
+10) Basics of NLP,  problems
 
-13. Transfer Learning. Popular architectures in Computer Vision.
+11) Statistics NLP(TF-IDF)
 
-15. Kaggle competitions
+12) Data scraping
+
+13) AI ethics 
+
+14) GPT, BERT, ROBERTA...
+
+15) Kaggle competitions
 
 
  
